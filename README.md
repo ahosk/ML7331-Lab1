@@ -9,7 +9,7 @@ Mini Lab:
 > Logistic Regression and SVM
 
 Lab 2:
-> Classification and Regression
+> Classification
 
 Lab 3: 
 > Clustering

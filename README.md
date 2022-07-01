@@ -13,3 +13,7 @@ Lab 2:
 
 Lab 3: 
 > Clustering
+
+
+ICA Assignments:
+> In-class Assignments
